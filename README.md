@@ -71,13 +71,7 @@ This project uses a [custom license](LICENSE.md). **Do not redistribute or modif
 1. **Add to `resources/` folder**
 2. **Ensure in `server.cfg`:**
 
-lua
-
-Copy
-
-Download
-
-ensure AntiVehicleDespawner
+ensure VehiclePersistence
 
 3. **Customise settings in `server.lua`** (timers, messages, permissions).
 
