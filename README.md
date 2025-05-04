@@ -31,7 +31,7 @@ This script prevents vehicles that have been used by a player from despawning wh
   * Forces immediate cleanup of all inactive vehicles
   * Requires ACE permission (`command.cleanupvehicles`)
 
-### **4️⃣ Performance Optimized**
+### **4️⃣ Performance Optimised**
 
 * **Low-impact server checks** (every 30 sec by default)
 * **Distance-based occupancy checks** (50m radius)
@@ -77,7 +77,7 @@ Download
 
 ensure AntiVehicleDespawner
 
-3. **Customize settings in `server.lua`** (timers, messages, permissions).
+3. **Customise settings in `server.lua`** (timers, messages, permissions).
 
 ---
 
@@ -87,7 +87,7 @@ ensure AntiVehicleDespawner
 ✔ **Prevents server bloat from abandoned cars**
 ✔ **Private warnings (no global spam)**
 ✔ **Supports manual admin cleanup**
-✔ **Optimized for performance**
+✔ **Optimised for performance**
 
 Perfect for roleplay, freeroam, and economy servers! 🚗💨
 
@@ -100,6 +100,6 @@ https://github.com/Hadgebury/VehiclePersistence
 |-------------------------------------|----------------------------|
 | Code is accessible       | Yes               |
 | Subscription-based      | No                 |
-| Lines (approximately)  | 300 (ONly Around 10 Are For Config/Setup)  |
+| Lines (approximately)  | 300 (Only Around 10 Are For Config/Setup)  |
 | Requirements                | None      |
 | Support                           | Yes                 |
