@@ -77,7 +77,7 @@ Download
 
 ensure AntiVehicleDespawner
 
-3. **Customise settings in `server.lua`** (timers, messages, permissions).
+3. **Customize settings in `server.lua`** (timers, messages, permissions).
 
 ---
 
@@ -87,19 +87,19 @@ ensure AntiVehicleDespawner
 ✔ **Prevents server bloat from abandoned cars**
 ✔ **Private warnings (no global spam)**
 ✔ **Supports manual admin cleanup**
-✔ **Optimised for performance**
+✔ **Optimized for performance**
 
 Perfect for roleplay, freeroam, and economy servers! 🚗💨
 
 ---
 
 ### **🔗 Download & Support**
-
+https://github.com/Hadgebury/VehiclePersistence
 
 |                                         |                                |
 |-------------------------------------|----------------------------|
 | Code is accessible       | Yes               |
 | Subscription-based      | No                 |
-| Lines (approximately)  | 300 (Only Around 10 Are For Config/Setup)  |
+| Lines (approximately)  | 300 (ONly Around 10 Are For Config/Setup)  |
 | Requirements                | None      |
 | Support                           | Yes                 |
