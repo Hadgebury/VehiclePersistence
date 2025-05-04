@@ -4,6 +4,8 @@
 
 This script prevents vehicles that have been used by a player from despawning while automatically cleaning up abandoned vehicles after a configurable period of inactivity. It ensures **only vehicles that have been driven by players** are tracked, preventing random parked AI vehicles from being affected.
 
+## 📜 License  
+This project uses a [custom license](LICENSE.md). **Do not redistribute or modify without permission.**  
 ---
 
 ## **🔧 Key Features**
